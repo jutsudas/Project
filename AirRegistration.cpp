@@ -390,7 +390,7 @@ void mainMenu(){
                     if(back==1)
                     {
                         t.display();
-                        cout<<"Press any key to go back to main menu:"<<endl;
+                        cout<<"Press 1 or 0 to go back to main menu:"<<endl;
 
                         cin>>back;
                         if(back==1){
